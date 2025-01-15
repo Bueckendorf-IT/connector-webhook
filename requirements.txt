@@ -1,3 +1,5 @@
 poetry
 msal
 python-dotenv
+flask
+gunicorn
